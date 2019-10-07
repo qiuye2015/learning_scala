@@ -2,8 +2,7 @@
 *.log
 */target
 *.iml
-/.idea
-target/
-.project
-.settings/
-.classpath
+*.idea
+*.project
+*.settings/
+*.classpath
